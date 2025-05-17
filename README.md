@@ -45,9 +45,10 @@ This project analyzes SpaceX Falcon 9 launch data to predict whether the first s
 ## 📊 Business Impact
 Understanding the predictors of successful landings can help SpaceX reduce mission costs, optimize launch conditions, and improve decision-making for future launches.
 
-##🔗 External Links
-[SpaceX API](https://api.spacexdata.com/v4/launches/past)
-[Wikipedia Falcon 9 Launches Page](https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches)
+## 🔗 External Links
+- [SpaceX API](https://api.spacexdata.com/v4/launches/past)
+
+- [Wikipedia Falcon 9 Launches Page](https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches)
 
 ## 📌 Requirements
 - Python 3.8+
